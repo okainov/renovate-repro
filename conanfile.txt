@@ -1,6 +1,6 @@
 [requires]
 libcurl/8.0.1
-asio/1.26.0
+asio/1.28.1
 abseil/20230125.3@_/_#5431a4c609f5fb48bb8d8567e953243f
 boost/1.82.0@_/_#902463606663219fc8c6d2102f1b8c6a
 c-ares/1.19.1@_/_#420a0b77e370f4b96bee88ef91837ccc
