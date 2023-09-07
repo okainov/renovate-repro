@@ -1,0 +1,7 @@
+[requires]
+libcurl/8.2.1
+asio/1.26.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
