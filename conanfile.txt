@@ -2,7 +2,7 @@
 libcurl/8.0.1
 asio/1.26.0
 abseil/20230125.3@_/_#5431a4c609f5fb48bb8d8567e953243f
-boost/1.82.0@_/_#902463606663219fc8c6d2102f1b8c6a
+boost/1.83.0@_/_#8be129e9ab6e00b3d74810626cdbea9c
 c-ares/1.19.1@_/_#420a0b77e370f4b96bee88ef91837ccc
 expected-lite/0.6.3@_/_#eed39896e3ad5c750701d5c17b8afbf8
 fmt/10.0.0@_/_#dd5e3eb81b512a1bb34a5aab88a07e82
