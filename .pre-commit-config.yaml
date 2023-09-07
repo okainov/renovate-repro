@@ -31,12 +31,12 @@ repos:
         types:
           - c++
   -   repo: https://github.com/asottile/pyupgrade
-      rev: v3.3.1
+      rev: v3.10.1
       hooks:
       -   id: pyupgrade
           args: [--py36-plus]
   -   repo: https://github.com/pre-commit/mirrors-autopep8
-      rev: v2.0.2
+      rev: v2.0.4
       hooks:
       -   id: autopep8
           args: [--in-place, --aggressive, --global-config, setup.cfg]
@@ -51,12 +51,12 @@ repos:
       -   id: add-trailing-comma
           args: [--py36-plus]
   -   repo: https://github.com/PyCQA/flake8
-      rev: 6.0.0
+      rev: 6.1.0
       hooks:
       -   id: flake8
           additional_dependencies: [
               darglint==1.8.1,
-              flake8-2020==1.7.0,
+              flake8-2020==1.8.1,
               flake8-alfred==1.1.1,
               flake8-builtins==2.1.0,
               flake8-logging-format==0.9.0,
@@ -64,7 +64,7 @@ repos:
               flake8-pytest-style==1.7.2,
               flake8-use-fstring==1.4,
               flake8-expression-complexity==0.0.11,
-              flake8-variables-names==0.0.5,
-              flake8-pyi==23.3.1,
+              flake8-variables-names==0.0.6,
+              flake8-pyi==23.6.0,
               bandit==1.7.5,
           ]
