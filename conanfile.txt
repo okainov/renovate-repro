@@ -1,5 +1,5 @@
 [requires]
-libcurl/8.0.1
+libcurl/8.2.1
 asio/1.26.0
 abseil/20230125.3@_/_#5431a4c609f5fb48bb8d8567e953243f
 boost/1.82.0@_/_#902463606663219fc8c6d2102f1b8c6a
