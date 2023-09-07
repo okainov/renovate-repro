@@ -4,7 +4,7 @@ asio/1.26.0
 abseil/20230125.3@_/_#5431a4c609f5fb48bb8d8567e953243f
 boost/1.82.0@_/_#902463606663219fc8c6d2102f1b8c6a
 c-ares/1.19.1@_/_#420a0b77e370f4b96bee88ef91837ccc
-expected-lite/0.6.3@_/_#eed39896e3ad5c750701d5c17b8afbf8
+expected-lite/0.6.3@_/_#262026767cf9d5ab1fdccb25c9bdbac2
 fmt/10.0.0@_/_#dd5e3eb81b512a1bb34a5aab88a07e82
 grpc/1.54.3@_/_#3e0d68cd1578502c9c3a0e8366f0ab77
 gtest/1.13.0@_/_#b7b21d0d5503615d4ba0223f720b4c0b
