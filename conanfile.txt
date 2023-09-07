@@ -1,6 +1,6 @@
 [requires]
 libcurl/8.2.1
-asio/1.26.0
+asio/1.28.1
 
 [generators]
 CMakeDeps
